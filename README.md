@@ -1,6 +1,8 @@
 ### Hi there, I'm Aakash 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/duddee_aakash?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fduddee_aakash&screen_name=duddee_aakash)
+[<img align="left" alt="My Portfolio" width="52px" src="https://www.pngkit.com/png/detail/154-1545805_portfolio-icons-code-web-development-logo.png" />][portfolio]
+
+[My Portfolio](https://palakash27.github.io/my-portfolio)
 
 ### Connect with me:
 
