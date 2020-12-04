@@ -32,7 +32,7 @@
 <br />
 
 ---
-
+[portfolio]:https://palakash27.github.io/my-portfolio
 [twitter]: https://twitter.com/duddee_aakash
 [instagram]: https://www.instagram.com/guyshetoldyounottoworryabout
 [linkedin]: https://www.linkedin.com/in/palakash27
