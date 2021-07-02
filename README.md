@@ -2,7 +2,7 @@
 
 [<img align="left" alt="My Portfolio" width="52px" src="https://www.pngkit.com/png/detail/154-1545805_portfolio-icons-code-web-development-logo.png" />][portfolio]
 
-[My Portfolio](https://palakash27.github.io/my-portfolio)
+[My Portfolio](https://aakashpal.tech/)
 
 ### Connect with me:
 
